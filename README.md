@@ -1,4 +1,4 @@
-# PlantAnalysis Tool 🌿🔍
+# FloraInsight 🌿🔍
 
 A web application for plant analysis using Express.js backend with RESTful APIs, Gemini integration, and Multer for file uploads. The frontend is built with HTML, CSS, and JavaScript.
 
