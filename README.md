@@ -4,6 +4,8 @@ A web application for plant analysis using Express.js backend with RESTful APIs,
 
 [![PlantAnalysis Tool Demo](https://img.youtube.com/vi/2S0bJ60wKGc/maxresdefault.jpg)](https://youtu.be/2S0bJ60wKGc)
 
+Click the image to view the Demo
+
 ## Features ✨
 
 - 🌱 Plant image analysis using Gemini AI
