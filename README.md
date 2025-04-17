@@ -2,7 +2,7 @@
 
 A web application for plant analysis using Express.js backend with RESTful APIs, Gemini integration, and Multer for file uploads. The frontend is built with HTML, CSS, and JavaScript.
 
-![PlantAnalysis Tool Preview](https://youtu.be/2S0bJ60wKGc)
+[![PlantAnalysis Tool Demo](https://img.youtube.com/vi/2S0bJ60wKGc/maxresdefault.jpg)](https://youtu.be/2S0bJ60wKGc)
 
 ## Features ✨
 
